@@ -1,5 +1,5 @@
 # FakeShop
-A fake clothing website that uses React-Redux.
+A fake clothing store website that uses React-Redux.
 
 **NOTE:** This project does **NOT** contain original CSS (as the purpose of the project is to apply what I have learned about react-redux) and closely follows a tutorial!
 
